@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602464376880",
+    "project_id": "softmed-1f33b",
+    "storage_bucket": "softmed-1f33b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602464376880:android:d78bb7cd3d23dccfa575f5",
+        "android_client_info": {
+          "package_name": "com.app.softmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpGdxTiymDo7wgc8VLsjnIkUEceR4gWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602464376880:android:7a80fa575a1b3089a575f5",
+        "android_client_info": {
+          "package_name": "com.example.softmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpGdxTiymDo7wgc8VLsjnIkUEceR4gWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
